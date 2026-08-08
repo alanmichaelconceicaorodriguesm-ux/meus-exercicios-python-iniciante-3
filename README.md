@@ -100,3 +100,5 @@ print("\033[0;31m", "–" * 25, "\033[m", "Fim", "\033[0;31m", "–" * 25, "\033
 print()
 
 # Completo.
+
+# Alan Michael. 
